@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Harkka9</string>
+    <string name="smart_post_search">SMART POST SEARCH</string>
+    <string name="open_before">OPEN-BEFORE:</string>
+    <string name="open_after">OPEN-AFTER:</string>
+    <string name="date_dd_mm_yyyy">Date: DD:MM:YYYY</string>
+    <string name="location">LOCATION:</string>
+</resources>
